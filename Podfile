@@ -7,4 +7,5 @@ target 'FirebaseStart' do
 
   # Pods for FirebaseStart
   pod 'Firebase/Analytics'
+  pod 'Firebase/Database'
 end
